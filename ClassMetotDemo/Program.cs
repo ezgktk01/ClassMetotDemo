@@ -28,7 +28,6 @@ namespace ClassMetotDemo
             musteriManager.Ekle(musteri1);
             musteriManager.Sil(musteri2);
             Console.ReadLine();
-
         }
     }
 }
